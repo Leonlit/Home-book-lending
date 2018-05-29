@@ -16,20 +16,20 @@
 </head>
 <body>
     <div class="global-wrapper">
-      <form action="" method="post" class="login card-panel">
-        <div class="form-group">
-          <label for="name" class="sr-only">Username</label>
-          <input type="text" name="name" placeholder="Username"  />
-        </div>
-        <div class="form-group">
-          <label for="pass" class="sr-only">Password</label>
-          <input type="password" name="pass" placeholder="Password"  />
-        </div>
-        <div class="form-group">
-          <input type="submit" name="Login" value="Login" />
-		  <input type="submit" name="Register" value="Register" />
-        </div>
-      </form>
+      	<form action="" method="post" class="login card-panel">
+        	<div class="form-group">
+        		<label for="name" class="sr-only">Username</label>
+         		<input type="text" name="name" placeholder="Username"  />
+        	</div>
+        	<div class="form-group">
+        		  <label for="pass" class="sr-only">Password</label>
+          		<input type="password" name="pass" placeholder="Password"  />
+        	</div>
+       		<div class="form-group">
+          		<input type="submit" name="Login" value="Login" />
+		  	<input type="submit" name="Register" value="Register" />
+        	</div>
+      	</form>
     </div>
 
 </body>

@@ -17,6 +17,7 @@
 
 ## Quickstart
 PHP > php -S localhost:8000
+
 SQL create table in db named 'books_lending'
 <pre>
 CREATE TABLE `books` (

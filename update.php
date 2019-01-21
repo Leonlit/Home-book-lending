@@ -87,7 +87,7 @@
                     <label for="name" class="sr-only">ISBN</label>
                     <input type="text" name="isbn" placeholder="ISBN" />
                 </div>
-                <input type="submit" name="update" value="Update">
+                <input type="submit" name="update" value="Add to List">
             </form>
     
 </body>
